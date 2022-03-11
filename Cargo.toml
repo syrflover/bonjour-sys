@@ -13,7 +13,7 @@ categories = ["api-bindings", "external-ffi-bindings", "network-programming", "o
 build = "build.rs"
 
 [build-dependencies]
-bindgen = "0.55.1"
+bindgen = "0.59.2"
 
 [dependencies]
-libc = "0.2.77"
+libc = "0.2.119"
